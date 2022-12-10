@@ -1,0 +1,18 @@
+body{
+    font-weight: 400px;
+    margin-left: 202px;
+    margin-top: 154px;
+    width: 1728px;
+    height: 1117px;
+    color: white;
+    background-color: black;
+   
+}
+hr{
+    border-width: 1px ;
+}
+.form{
+    width:1172px;
+    color:white;
+    height: 40px;
+}
